@@ -1,4 +1,4 @@
-import { gsap } from "gsap";
+import { gsap } from "/gsap.js";
 import * as THREE from 'https://cdn.skypack.dev/three@0.126.1'
 
 const world = {
